@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: MyBlog
 ---
 这是我的第一个博客。
 
